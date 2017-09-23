@@ -1,2 +1,2 @@
 # Xargon
-webhook bot
+1st bot for Unity Discord Server
